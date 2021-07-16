@@ -6,13 +6,13 @@ This proyect allows you to get a random message mane of an list of names predefi
 ## Install
 
 ```npm
-npm install -g random-msg
+npm install -g @serrander/random-mesages-serrander
 ```
 
 # Usage
 
 ```bash
-random-msg
+randomMsg
 ```
 
 # Contributing
